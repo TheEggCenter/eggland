@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.1.8]
+## [0.1.8] - 2025-05-09
 
 ### Added
 
@@ -15,19 +15,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Added 5 new items to the Cloud Shop (Lightgen, Clackclock, Devious Panel, Nightgen, Quikswap)
 
-- Added 6 new tips
+- Added "Night Creatures", creatures that show up at night and steal your eggs if not clicked away
 
-- Added "Factory Features", rotating shops that cycle out every day and night
+- Added 9 new tips
 
 - Added rain sfx that plays whenever it rains
 
-- (BETA) Added barebones controller support (untested on non-PS4 dualshock controllers)
+- (BETA) Added barebones controller support (untested on non-dualshock 4 controllers)
 
-- Added our new playtester, Ikeo, to the credits menu
-
-- Added a tutorial to the game
-
-- Added a small cutscene before the game actually starts
+- Added new playtester, Ikeo, to the credits menu
 
 - Added the ability to go forward when changing the game volume in the pause menu by right clicking
 
@@ -37,31 +33,65 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Added "hover" images to the purchase and "I feel lucky" buttons in the Cloud Shop
 
+- Added the submenu infobox to the pause menu
+
+- Added scrolling support to most menus
+
 ### Changed
 
-- Changed the Metal Egg shop description to explain what it does in further detail
+- Renamed "redpizzalion" to "RedLikesGarlicBread" in the credits menu
+
+- Changed the pause menu song to be a different cut
+
+- Renamed "Jacko Catacomb" to "kataKombe" in the credits menu
+
+- "Inventor Of ___" sections in the credits menu are now
+
+- Replaced the scrolling text with a project version number in the submenu
+
+- Swapped heyothefunnier with RedLikesGarlicBread in the credits menu
+
+- Changed info on KataKombe and RedLikesGarlicBread's credit pages
+
+- Rewrote the metal egg shop description
 
 - Rewrote the multiglove shop description
 
 - Rewrote how the pause menu displays it's options
 
-- Changed how text is displayed in certain menus like the Submenu to no longer use images
+- Changed how text is displayed in certain menus (like the submenu) to no longer use images
 
-- Changed sound effects in various menus to match newer sfx
+- Changed sound effects in various menus to match the newer sfx
 
 - Changed the rain animation
 
 - Rain can now happen during any time of day
 
+- Changed the submenu intro sound and song
+
 - Updated the nighttime theme
 
 - Updated the daytime theme
 
-- Redrew redpizzalion's credits image
+- Updated the titlemenu theme
+
+- Redrew RedLikesGarlicBread's credits image
+
+- Changed kataKombe's credits image
 
 - Ported the Cloud Shop to the new shopmenu framework
 
+- Changed the github repo that the update detection system pulls version numbers from
+
+- Nerfed the multiglove (4 eggs and tomatoes every 5 seconds)
+
+- Changed the pause menu layout
+
+- Changed how "pausing" the game works (you no longer collect currencies and most functions are paused)
+
 ### Removed
+
+- Removed the crashbox's active sound
 
 ### Fixed
 
@@ -93,7 +123,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- Window Jacko in pause menu now changes depending on the day cycle
+- Window Jacko in the pause menu now changes depending on the day cycle
 
 - Changed the pause menu song
 
@@ -105,4 +135,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.1.7] - 2025-02-18
 
-- 0.1.7 and updates before it have not had any documented changelogs.
+- 0.1.7 and updates before it have not had any documented or properly archived changelogs.
