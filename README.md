@@ -1,7 +1,7 @@
 # egg land
  collect my eggs..
 
- here is where i store things that egg land locally pulls from (whether that be images or videos), and art assets for people to dig around in.
+ here is where i store things that egg land locally pulls from (whether that be images, videos, etc), and eventually art assets for people to dig around in.
 
  # game description
 

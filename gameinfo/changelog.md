@@ -123,8 +123,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- Window Jacko in the pause menu now changes depending on the day cycle
-
 - Changed the pause menu song
 
 - Changed the cloud Shop UI scaling
