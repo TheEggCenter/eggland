@@ -45,8 +45,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Renamed "Jacko Catacomb" to "kataKombe" in the credits menu
 
-- "Inventor Of ___" sections in the credits menu are now
-
 - Replaced the scrolling text with a project version number in the submenu
 
 - Swapped heyothefunnier with RedLikesGarlicBread in the credits menu
