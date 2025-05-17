@@ -5,7 +5,47 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+## [0.1.8.1] - 2025-05-???
+
+### Added
+
+- (BETA) Added interpolation support (hold "I" until you reach the title screen on startup)
+
+- Added 1 new tip
+
+- Added scrolling clouds to the clicker and kitchen
+
+- Added fallbacks for incorrectly loaded save data
+
+### Changed
+
+- Made the rain more transparent
+
+- Lightgen and Nightgen now both work during Twilight, but they produce 200 eggs
+
+- Changed the Lightgen and the Nightgen Cloud Shop text to include their new functionality
+
+- Updated the Milk, Metal Egg, Egg Generator, Butter, Tomato, Loaf, Carrot, and Clackclock Cloud Shop descriptions
+
+- The Cloud Shop page you were last on now persists after you exit the menu
+
+- Changed the logo sprite in the title menu to have a thicker outline
+
+### Removed
+
+- Removed the Butter's spawning and despawning sounds
+
+- Removed unused sprites, code, and music
+
+### Fixed
+
+- Fixed Jacko not appearing on the submenu screen properly
+
+- Fixed issues with the "functionality" text on the Multiglove in the Cloud Shop
+
+- Fixed custom item positions not saving
+
+- Fixed the Quikswap being able to be clicked outside of the kitchen
 
 ## [0.1.8] - 2025-05-09
 
@@ -44,8 +84,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Changed the pause menu song to be a different cut
 
 - Renamed "Jacko Catacomb" to "kataKombe" in the credits menu
-
-- "Inventor Of ___" sections in the credits menu are now
 
 - Replaced the scrolling text with a project version number in the submenu
 
