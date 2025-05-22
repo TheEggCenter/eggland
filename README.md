@@ -1,18 +1,19 @@
 # egg land
- collect my eggs..
+this github page is where i store things that egg land locally pulls from (whether that be images, videos, etc), and eventually art assets for people to dig around in. this is NOT where you download the game.
 
- here is where i store things that egg land locally pulls from (whether that be images, videos, etc), and eventually art assets for people to dig around in.
+# what's an egg land?
 
- # game description
+Egg Land is a incremental/idle game with an interactive twist. Click, collect, and discover unusual ways to generate eggs and other unconventional currencies—but don’t get too comfortable! Mysterious creatures might try to steal your supply (or potentially worse!), while friendlier faces might lend a hand in your bizarre quest.
 
- Egg Land is a idle game where you must click and find other ways of getting eggs and other unconventional currencies, with an interactive twist found nowhere else.
+After many turn-downs and rejections, Jacko Catacomb finally gets a job at The Egg Factory, but there's a catch. shipped off to a seemingly abandoned island, tasked with producing virtual eggs using an odd array of company devices. The kicker? He's able to trade them out for real (non-egg-shaped) money, and after he hits his quota, he gets to go home.
  
- "after months of job turn-downs, you finally get a job at The Egg Factory. when flying out to your new job, you end up on a seemingly deserted island, forced to make eggs with whatever is available on your cloud shop, and your own hands."
- 
- collect and grow your egg count and you just might be able to escape this island.
+Grow your egg count, unravel the island’s secrets, and help Jacko expose the corporation’s evil history—before it breaks him… or the island’s inhabitants.
 
 # information
+The game is NOT finished yet, it's currently in BETA!!
 
- did you actually want to play egg land? you can check out where it's available in this [file](https://github.com/katakatakombe/eggland/blob/main/gameinfo/gamelinks.md).
+Not everything has been implemented in the game yet. Expect updates to roll out every now and then to fix bugs and issues. If you have any problems, please report them in the comments, or in our Discord server: https://discord.gg/A2f2A7mBUF
 
- for now, toodles!
+did you actually want to play egg land? you can check out where it's available in this [file](https://github.com/katakatakombe/eggland/blob/main/gameinfo/gamelinks.md).
+
+for now, toodles!

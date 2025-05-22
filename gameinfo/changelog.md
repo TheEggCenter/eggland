@@ -1,11 +1,55 @@
 # Changelog
 
-All notable changes to this project will be documented in this file.
+All notable changes to Egg Land will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+
+## [0.1.8.1] - 2025-05-22
+
+### Added
+
+- (BETA) Added interpolation support (hold "I" until you reach the title screen on startup)
+
+- Added 1 new tip
+
+- Added scrolling clouds to the clicker and kitchen
+
+- Added fallbacks for incorrectly loaded save data
+
+- Added custom item positions to save data
+
+### Changed
+
+- Made the rain more transparent
+
+- Lightgen and Nightgen now both work during Twilight, but they produce 200 eggs
+
+- Changed the Lightgen and the Nightgen Cloud Shop text to include their new functionality
+
+- Updated the Milk, Metal Egg, Egg Generator, Butter, Tomato, Loaf, Carrot, and Clackclock Cloud Shop descriptions
+
+- The Cloud Shop page you were last on now persists after you exit the menu
+
+- Changed the logo sprite in the title menu to have a thicker outline
+
+### Removed
+
+- Removed the Butter's spawning and despawning sounds
+
+- Removed unused sprites, code, and music
+
+- Removed 5 tips, making the tip count 12
+
+### Fixed
+
+- Fixed Jacko not appearing on the submenu screen properly
+
+- Fixed issues with the "functionality" text on the Multiglove in the Cloud Shop
+
+- Fixed the Quikswap being able to be clicked outside of the kitchen
 
 ## [0.1.8] - 2025-05-09
 
@@ -91,6 +135,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Removed the crashbox's active sound
 
+- Removed ConveyorBelt support
+
 ### Fixed
 
 - Fixed the logo in title screen being rotated slightly
@@ -109,6 +155,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Added a "day counter" that updates every full day cycle
 
+### Changed
+
+- Changed the pause menu song
+
+- Changed the cloud Shop UI scaling
+
+### Deprecated
+
+- Deprecated ConveyorBelt support
+
 ### Fixed
 
 - Fixed a grammar error in the submenu's infobox
@@ -119,16 +175,149 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Fixed kitchen lights not properly loading
 
-### Changed
-
-- Changed the pause menu song
-
-- Changed the cloud Shop UI scaling
-
-### Deprecated
-
-- ConveyorBelt no longer works as of this update
 
 ## [0.1.7] - 2025-02-18
 
-- 0.1.7 and updates before it have not had any documented or properly archived changelogs.
+- This update has not had a properly archived changelog.
+
+## [0.1.6] - 2024-12-24
+
+- This update has not had a properly archived changelog.
+
+## [0.1.5.1] - 2024-11-29
+
+### Changed
+
+- Animated the startup loading screen
+
+### Fixed
+
+- Fixed eggs not displaying when buying items
+
+- Fixed raining during the day
+
+## [0.1.5] - 2024-11-28
+
+### Added
+
+- Added a credits menu
+
+- Added a submenu before the clicker
+
+- Added logo animations to the title menu
+
+- Added local storage saving
+
+- Added autosaving every 5 minutes
+
+- Added the ability to erase your data
+
+- Added a new titlemenu secret
+
+### Changed
+
+- Changed the currency visuals
+
+- Changed currency-per-click visuals
+
+- Increased rarity of titlemenu secrets
+
+- Changed the egg and tomato sprites
+
+### Removed
+
+- Removed the Network Booster
+
+- Removed startup tutorial
+
+- Removed save codes
+
+- Removed test sprites
+
+### Fixed
+
+- Cleaned up loose variables and code for optimization
+
+- Merged some sprites together for optimization
+
+- Fixed issues with the kitchen assets acting strange when clicked
+
+- Fixed issues with the rain functionality
+
+- Fixed the audio being heavily compressed
+
+- Fixed the Crashbox not working after being bought
+
+- Fixed an issue how your currency would go offscreen and break if it exceeded 1 sextillion
+
+- Fixed audio being too quiet
+
+- Fixed bugs and issues with the new audio system
+
+## [0.1.4.1] - 2024-10-17
+
+### Added
+
+- Added sounds to the Network Booster
+
+### Fixed
+
+- Fixed an issue with the Carrot's shop price being incorrect
+
+- Fixed issues with the save button's visibility
+
+- Fixed issues with the savecode system
+
+- Fixed Jacko being slow on the titlemenu
+
+### Changed
+
+- Made the network boost show up when the Network Booster is repaired
+
+## [0.1.4] - 2024-10-31
+
+### Added
+
+- Added saving and loading via save codes
+
+- Added three new Cloud Shop items (Sheet O' Paper, Multiglove, Crashbox)
+
+- Added a day and night cycle, with rain occasionally happening during night
+
+- Added a egg booster that syncs across the cloud
+
+- Added a 100 tomato conversion limit to the grater
+
+### Changed
+
+- Redid the layout of the title menu
+
+- Added Jacko to the title menu
+
+- Redid all art and music assets
+
+- Redid the kitchen's layout
+
+### Removed
+
+- Removed old assets
+
+### Fixed
+
+- Fixed issues with items not functioning properly
+
+## [0.1.4] - 2024-1-11
+
+- This update has not had a properly archived changelog.
+
+## [0.1.3] - 2023-??-??
+
+- This update has not had a properly archived changelog.
+
+## [0.1.2] - 2023-1-??
+
+- This update has not had a properly archived changelog.
+
+## [0.1.0] - 2023-1-11
+
+- This update has not had a properly archived changelog.
