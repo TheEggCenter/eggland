@@ -17,8 +17,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Added scrolling clouds to the clicker and kitchen
 
-- Added fallbacks for incorrectly loaded save data
-
 - Added custom item positions to save data
 
 ### Changed
@@ -50,6 +48,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fixed issues with the "functionality" text on the Multiglove in the Cloud Shop
 
 - Fixed the Quikswap being able to be clicked outside of the kitchen
+
+### Security
+
+- Added fallbacks for incorrectly loaded save data and unwritten slots
 
 ## [0.1.8] - 2025-05-09
 
@@ -161,6 +163,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Changed the cloud Shop UI scaling
 
+- Reverted all internal holiday changes from 0.1.6
+
 ### Deprecated
 
 - Deprecated ConveyorBelt support
@@ -169,20 +173,77 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Fixed a grammar error in the submenu's infobox
 
-- Fixed issues with save data incorrectly loading
-
 - Fixed various preformance and lag issues
 
 - Fixed kitchen lights not properly loading
 
+### Security
+
+- Fixed issues with save data incorrectly loading
 
 ## [0.1.7] - 2025-02-18
 
-- This update has not had a properly archived changelog.
+### Added
+
+- Added page support to the submenu's infobox
+
+- Added ConveyorBelt support
+
+- Added proper backgrounds to the clicker
+
+- Added a return to title prompt when Z is held down in the clicker
+
+### Changed
+
+- Redrew every art asset used
+
+- Remade the day, night, and titlemenu songs
+
+- Changed UI sounds on buttons and other UI elements
+
+### Removed
+
+- Removed Red's Outfit Shop
+
+- Reverted all visual holiday changes from 0.1.6
+
+- Removed 5 items (Yolkbread Man, Berrycane, Ornamegg, Eggnog, Sorrowglobe)
+
+### Fixed
+
+- Various preformance fixes
+
+### Security
+
+- Fixed save data issues
 
 ## [0.1.6] - 2024-12-24
 
-- This update has not had a properly archived changelog.
+### Added
+
+- Added christmas lights to the clicker
+
+- Added 5 new items (Yolkbread Man, Berrycane, Ornamegg, Eggnog, Sorrowglobe)
+
+- Added 10 ornaments and an ornament quest
+
+- Added a boss fight for when all ornaments are collected
+
+- Added an outfit shop with four outfits for purchase (Santa's Hat Present Lid, Snow Shoveler, Tangled Lights)
+
+### Changed
+
+- Changed the rain to be snow
+
+- Redrew the kitchen
+
+- Changed the day and night songs
+
+- Changed the day and night backgrounds
+
+### Fixed
+
+- Various bug fixes
 
 ## [0.1.5.1] - 2024-11-29
 
@@ -254,11 +315,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Fixed bugs and issues with the new audio system
 
-## [0.1.4.1] - 2024-10-17
+## [0.1.4.1] - 2024-11-2
 
 ### Added
 
 - Added sounds to the Network Booster
+
+### Changed
+
+- Made the network boost show up when the Network Booster is repaired
 
 ### Fixed
 
@@ -269,10 +334,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fixed issues with the savecode system
 
 - Fixed Jacko being slow on the titlemenu
-
-### Changed
-
-- Made the network boost show up when the Network Booster is repaired
 
 ## [0.1.4] - 2024-10-31
 
@@ -306,18 +367,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Fixed issues with items not functioning properly
 
-## [0.1.4] - 2024-1-11
-
-- This update has not had a properly archived changelog.
-
 ## [0.1.3] - 2023-??-??
 
-- This update has not had a properly archived changelog.
+### Fixed
+
+- Fixed Demo Egg functionality
+
+- Various preformance fixes
 
 ## [0.1.2] - 2023-1-??
 
-- This update has not had a properly archived changelog.
+### Added
 
-## [0.1.0] - 2023-1-11
+- Added particles when clicking the egg
 
-- This update has not had a properly archived changelog.
+- Added an easter egg when typing "R-E-D"
+
+- Added a cheese grater that allows you to convert all of your tomatoes into eggs
+
+- Added a display the version number
+
+### Fixed
+
+- Fixed issues with item speed
+
+- Various preformance fixes
