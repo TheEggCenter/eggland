@@ -7,6 +7,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.8.2] - 2025-06-02
+
+### Added
+
+- Added support for forced updates
+
+### Changed
+
+- Changed the update notice background
+
+- Rewrote update detection
+
+- Adjusted descriptions in the Cloud Shop for the Milk, Metal Egg, and Quikswap
+
+### Fixed
+
+- Fixed animations on the Lightgen and Nightgen
+
 ## [0.1.8.1] - 2025-05-22
 
 ### Added
