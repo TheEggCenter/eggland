@@ -115,9 +115,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Changed info on KataKombe and RedLikesGarlicBread's credit pages
 
-- Rewrote the metal egg shop description
+- Rewrote the Metal Egg shop description
 
-- Rewrote the multiglove shop description
+- Rewrote the Nultiglove shop description
 
 - Rewrote how the pause menu displays it's options
 
@@ -145,7 +145,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Changed the github repo that the update detection system pulls version numbers from
 
-- Nerfed the multiglove (4 eggs and tomatoes every 5 seconds)
+- Nerfed the Multiglove (4 eggs and tomatoes every 5 seconds)
 
 - Changed the pause menu layout
 
