@@ -35,7 +35,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Added scrolling clouds to the clicker and kitchen
 
-- Added custom item positions to save data
+- Implemented custom item positions to save data
 
 ### Changed
 
@@ -75,7 +75,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- Added a new addition to the day cycle, Twilight, and it's own song
+- Added twilight to the day in the clicker
 
 - Added 5 new items to the Cloud Shop (Lightgen, Clackclock, Devious Panel, Nightgen, Quikswap)
 
