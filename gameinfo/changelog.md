@@ -106,8 +106,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Changed the pause menu song to be a different cut
 
-- Renamed "Jacko Catacomb" to "kataKombe" in the credits menu
-
 - Replaced the scrolling text with a project version number in the submenu
 
 - Swapped heyothefunnier with RedLikesGarlicBread in the credits menu
@@ -181,6 +179,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Changed the cloud Shop UI scaling
 
 - Reverted all internal holiday changes from 0.1.6
+
+- Renamed "Jacko Catacomb" to "kataKombe" in the credits menu
+
+- Swapped the visual display for kataKombe in the credits menu to a different character
 
 ### Deprecated
 
