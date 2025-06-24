@@ -13,7 +13,7 @@ After many turn-downs and rejections, Jacko Catacomb finally gets a job at The E
  
 Grow your egg count, unravel the island’s secrets, and help Jacko expose the corporation’s evil history—before it breaks him… or the island’s inhabitants.
 
-# Information
+## Disclaimer
 **The game is NOT finished yet, it's currently in BETA!!**
 
 Not everything has been implemented in the game yet. Expect updates to roll out every now and then to fix bugs and issues. If you have any problems, please report them in the comments, or in our Discord server: https://discord.gg/A2f2A7mBUF
