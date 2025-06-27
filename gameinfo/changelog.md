@@ -1,10 +1,113 @@
 # Changelog
 
-All notable changes to the project, [Egg Land](https://github.com/katakatakombe/eggland/blob/main/gameinfo/gamelinks.md)., will be documented in this file.
+All notable changes to the project, [Egg Land](https://github.com/katakatakombe/eggland/blob/main/gameinfo/gamelinks.md)., will be
+documented in this file.
 This changelog does not refer to the actual GitHub repository.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [0.1.8.3] - 2025-06-27
+
+### Added
+
+- Added 3 new items (Mushroom, Double Yolk, Fishger)
+
+- Added confirmation UI to the Quikswap
+
+- Implemented the current day cycle state into save data
+
+- Added proper number trunication and formatting to the Cloud Shop prices and currency counters
+
+- Added 2 new tips
+
+- Added page counters to the Cloud Shop and credits menu
+
+- Added a pre-rest animation to the Devious Panel
+
+### Changed
+
+- Remade the submenu song
+
+- Changed the "inventor of __" sections in the credits menu to be nicknames/other aliases
+
+- Changed the pause menu song to be the submenu song
+
+- Decreased chance of button sizes being different in the update notice
+
+- Added a slower day/night cycle time limit
+
+- Nerfed the Devious Panel (700 eggs and tomatoes every 4 seconds when active)
+
+- Changed the sfx used in the credits menu
+
+- Changed most visible text to be sentence-case when nessecary
+
+- Changed tip size and position
+
+- Moved the credits button to the submenu
+
+- Rewrote the Sheet O' Paper, Clackclock, and Butter functionality descriptions in the Cloud Shop
+
+- Updated colors on the Quikswap display image in the cloud shop
+
+- Made clouds move slower
+
+- Moved the Carrot and Loaf items slightly to the left
+
+- Extended the text width for the submenu infobox
+
+- Made minor changes to the infobox text
+
+- Changed the color of option text in the pause menu
+
+- Reimported every song as .FLAC instead of .WAV
+
+- Changed the price of the Milk to be 10 eggs
+
+- Changed the price of the Metal Egg to be 100 eggs
+
+- Changed the price of the Egg Generator to be 600 eggs
+
+- Aligned the Cloud Shop description and function text to the right
+
+### Removed
+
+- Removed the Quikswap's ability to change time on purchase
+
+- Removed dynamic application window names
+
+- Removed the play and credits buttons from the titlemenu
+
+- Removed unused assets
+
+- Removed 10 sextillion egg and tomato limit
+
+- Removed the despawning animation from the Butter item
+
+### Fixed
+
+- Fixed the infobox in the pause menu not being able to scroll properly
+
+- Fixed the proper background for the update notice not showing
+
+- Fixed a bug where you would start at night instead of day
+
+- Fixed audio issues with the update notice
+
+- Fixed the Devious Panel not resetting when item positions are reset
+
+- Fixed the Devious Panel being stuck midair when "M" is held
+
+- Fixed sound button not rounding when increasing volume/right clicking
+
+- Fixed the Devious Panel sometimes not resetting upon restart
+
+- Fixed the Quikswap not changing the day counter when swapping to day
+
+- Fixed size issues with the arrows in the Cloud Shop
+
+- Fixed the Butter clicking animation clipping into other menus like the kitchen
 
 ## [0.1.8.2] - 2025-06-02
 
@@ -114,7 +217,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Rewrote the Metal Egg shop description
 
-- Rewrote the Nultiglove shop description
+- Rewrote the Multiglove shop description
 
 - Rewrote how the pause menu displays it's options
 
@@ -136,11 +239,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Redrew RedLikesGarlicBread's credits image
 
-- Changed kataKombe's credits image
-
 - Ported the Cloud Shop to the new shopmenu framework
 
-- Changed the github repo that the update detection system pulls version numbers from
+- Changed the Github repo that the update detection system pulls version numbers from
 
 - Nerfed the Multiglove (4 eggs and tomatoes every 5 seconds)
 
