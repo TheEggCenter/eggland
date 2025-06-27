@@ -17,7 +17,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Implemented the current day cycle state into save data
 
-- Added proper number trunication and formatting to the Cloud Shop prices and currency counters
+- Added proper number truncation and formatting to the Cloud Shop prices and currency counters
 
 - Added 2 new tips
 
