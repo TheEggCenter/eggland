@@ -7,6 +7,38 @@ This changelog does not refer to the actual GitHub repository.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.1.8.4] 2025-06-28
+
+### Changed
+
+- Changed the Clackclock display to be correctly formatted as minutes:seconds
+
+- Updated the update notice assets
+
+- Updated the save data warning image
+
+- Allowed for item prices to still be viewed after purchase
+
+- Changed the price of the Mushroom to be 100 eggs (originlly 300 eggs)
+
+- Increased decimal count of truncated numbers by 2
+
+- Updated game license to be Attribution-NonCommercial-ShareAlike 4.0 International
+
+### Removed
+
+- Removed unused sprites
+
+### Fixed
+
+- Fixed graphical bugs related to the "I Feel Lucky" button in the Cloud Shop
+
+- Fixed layering issues with the Clackclock
+
+- Fixed hold spam issue with the item position reset key (R)
+
+- Fixed issues with menus duplicating when spamclicking their respective buttons
+
 ## [0.1.8.3] - 2025-06-27
 
 ### Added
