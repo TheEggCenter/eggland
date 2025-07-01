@@ -515,6 +515,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Removed old assets
 
+- Removed the Demo Egg item
+
 ### Fixed
 
 - Fixed issues with items not functioning properly
@@ -539,10 +541,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Added a display the version number
 
-- Added two new items (Carrot and Loaf)
+- Added four new items (Tomato, Carrot, Loaf, and Demo Egg)
 
 ### Fixed
 
 - Fixed issues with item speed
-
-- Various preformance fixes
