@@ -19,9 +19,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Allowed for item prices to still be viewed after purchase
 
-- Changed the price of the Mushroom to be 100 eggs (originlly 300 eggs)
+- Changed the price of the Mushroom to be 100 eggs (originally 300 eggs)
 
-- Increased decimal count of truncated numbers by 2
+- Increased the decimal count of truncated numbers by 2
 
 - Updated game license to be Attribution-NonCommercial-ShareAlike 4.0 International
 
