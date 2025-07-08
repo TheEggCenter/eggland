@@ -493,7 +493,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Added saving and loading via save codes
 
-- Added three new Cloud Shop items (Sheet O' Paper, Multiglove, Crashbox)
+- Added five new Cloud Shop items (Carrot, Loaf, Sheet O' Paper, Multiglove, Crashbox)
 
 - Added a day and night cycle, with rain occasionally happening during night
 
@@ -541,7 +541,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Added a display the version number
 
-- Added four new items (Tomato, Carrot, Loaf, and Demo Egg)
+- Added two new items (Tomato and Demo Egg)
 
 ### Fixed
 
