@@ -546,3 +546,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 
 - Fixed issues with item speed
+
+## [0.1.1] - 2023-1-??
+
+### Fixed
+
+- Various bug fixes
