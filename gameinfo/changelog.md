@@ -1,7 +1,8 @@
 # Changelog
 
-All notable changes to the project, [Egg Land](https://github.com/katakatakombe/eggland/blob/main/gameinfo/gamelinks.md)., will be
+All notable changes to the project, [Egg Land](https://github.com/katakatakombe/eggland/blob/main/gameinfo/gamelinks.md), will be
 documented in this file.
+
 This changelog does not refer to the actual GitHub repository.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
@@ -15,7 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Updated the update notice assets
 
-- Updated the save data warning image
+- Updated the save data load error image
 
 - Allowed for item prices to still be viewed after purchase
 
@@ -123,7 +124,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Fixed the proper background for the update notice not showing
 
-- Fixed a bug where you would start at night instead of day
+- Fixed a bug where players would start at night instead of day
 
 - Fixed audio issues with the update notice
 
@@ -163,7 +164,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- (BETA) Added interpolation support (hold "I" until you reach the title screen on startup)
+- (BETA) Added interpolation support (hold "I" until reaching the title screen on startup)
 
 - Added 1 new tip
 
@@ -181,7 +182,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Updated the Milk, Metal Egg, Egg Generator, Butter, Tomato, Loaf, Carrot, and Clackclock Cloud Shop descriptions
 
-- The Cloud Shop page you were last on now persists after you exit the menu
+- The Cloud Shop page now persists after players exit the shop
 
 - Changed the logo sprite in the title menu to have a thicker outline
 
@@ -213,7 +214,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Added 5 new items to the Cloud Shop (Lightgen, Clackclock, Devious Panel, Nightgen, Quikswap)
 
-- Added "Night Creatures", creatures that show up at night and steal your eggs if not clicked away
+- Added "Night Creatures", creatures that show up at night and steal players eggs if not clicked away
 
 - Added 9 new tips
 
@@ -279,7 +280,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Changed the pause menu layout
 
-- Changed how "pausing" the game works (you no longer collect currencies and most functions are paused)
+- Changed how "pausing" the game works (players no longer collect currencies and most functions are paused)
 
 ### Removed
 
@@ -299,7 +300,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- Integrated update detection that lets you know when theres a new update available
+- Integrated update detection that lets players know when theres a new update available
 
 - Added tips that display every 2 minutes
 
@@ -423,7 +424,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Added autosaving every 5 minutes
 
-- Added the ability to erase your data
+- Added the ability to erase save data
 
 - Added a new titlemenu secret
 
@@ -461,7 +462,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Fixed the Crashbox not working after being bought
 
-- Fixed an issue how your currency would go offscreen and break if it exceeded 1 sextillion
+- Fixed an issue with how players currency would go offscreen and break if it exceeded 1 sextillion
 
 - Fixed audio being too quiet
 
@@ -537,7 +538,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Added an easter egg when typing "R-E-D"
 
-- Added a cheese grater that allows you to convert all of your tomatoes into eggs
+- Added a cheese grater that allows players to convert all of their tomatoes into eggs
 
 - Added a display the version number
 
@@ -552,3 +553,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 
 - Various bug fixes
+
+## [0.1.0] - 2023-1-11
+
+### Added
+
+- Everything! The game was released!!
