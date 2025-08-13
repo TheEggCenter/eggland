@@ -7,7 +7,7 @@ This is **NOT** where you download the game.
 
 # What's an Egg Land?
 
-Egg Land is a incremental/idle game with RPG and story elements. Click, collect, and discover more unusual ways to generate eggs and other unconventional currencies—but don’t get too comfortable! Mysterious creatures might try to steal your supply (or potentially worse!), while friendlier faces might lend a hand in your bizarre quest.
+Egg Land is an in-beta incremental/idle games. Click, collect, and discover more unusual ways to generate eggs and other unconventional currencies—but don’t get too comfortable! Mysterious creatures might try to steal your supply (or potentially worse!), while friendlier faces might lend a hand in your bizarre quest.
 
 After many turn-downs and rejections, local screwball Jacko Catacomb finally gets a job at The Egg Factory, but of course, there's a catch. He has to be shipped off to a seemingly deserted island, tasked with producing virtual eggs using an odd array of company devices. The kicker? He's able to trade them out for real (non-egg-shaped) money, and after he hits his quota, he gets to go home.
  

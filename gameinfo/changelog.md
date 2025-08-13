@@ -8,6 +8,32 @@ This changelog does not refer to the actual GitHub repository.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.1.8.5] 2025-08-13
+
+### Added
+
+- Added the ability to pause with both (ESCAPE) and (P)
+
+### Changed
+
+- Modified RedLikesGarlicBread's credits
+
+- Changed copyright graphic in the titlemenu
+
+### Removed
+
+- Temporarily removed the YouTube button in the credits menu
+
+### Fixed
+
+- Fixed volume changes not saving if in the titlemenu
+
+- Fixed the titlemenu music not playing after declining a new update
+
+- Fixed issues with the update notice buttons and background appearing incorrectly
+
+- Fixed the update notice incorrectly showing up if you aren't connected to the internet
+
 ## [0.1.8.4] 2025-06-28
 
 ### Changed
@@ -176,7 +202,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Made the rain more transparent
 
-- Lightgen and Nightgen now both work during Twilight, but they produce 200 eggs
+- Lightgen and Nightgen now both work during twilight, but they produce 200 eggs
 
 - Changed the Lightgen and the Nightgen Cloud Shop text to include their new functionality
 
@@ -558,4 +584,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- Everything! The game was released!!
+- Everything! The game was released into beta!!
