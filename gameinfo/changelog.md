@@ -18,7 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Modified RedLikesGarlicBread's credits
 
-- Changed copyright graphic in the titlemenu
+- Changed copyright graphic in the title screen
 
 ### Removed
 
@@ -26,9 +26,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 
-- Fixed volume changes not saving if in the titlemenu
+- Fixed volume changes not saving if in the title screen
 
-- Fixed the titlemenu music not playing after declining a new update
+- Fixed the title screen music not playing after declining a new update
 
 - Fixed issues with the update notice buttons and background appearing incorrectly
 
@@ -86,11 +86,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- Remade the submenu song
+- Remade the main menu song
 
 - Changed the "inventor of __" sections in the credits menu to be nicknames/other aliases
 
-- Changed the pause menu song to be the submenu song
+- Changed the pause menu song to be the song used in the main menu
 
 - Decreased chance of button sizes being different in the update notice
 
@@ -104,7 +104,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Changed tip size and position
 
-- Moved the credits button to the submenu
+- Moved the credits button to the main menu
 
 - Rewrote the Sheet O' Paper, Clackclock, and Butter functionality descriptions in the Cloud Shop
 
@@ -114,7 +114,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Moved the Carrot and Loaf items slightly to the left
 
-- Extended the text width for the submenu infobox
+- Extended the text width for the main menu infobox
 
 - Made minor changes to the infobox text
 
@@ -136,7 +136,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Removed dynamic application window names
 
-- Removed the play and credits buttons from the titlemenu
+- Removed the play and credits buttons from the title screen
 
 - Removed unused assets
 
@@ -222,7 +222,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 
-- Fixed Jacko not appearing on the submenu screen properly
+- Fixed Jacko not appearing in the main menu properly
 
 - Fixed issues with the "functionality" text on the Multiglove in the Cloud Shop
 
@@ -258,7 +258,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Added "hover" images to the purchase and "I feel lucky" buttons in the Cloud Shop
 
-- Added the submenu infobox to the pause menu
+- Added the main menu infobox to the pause menu
 
 - Added scrolling support to most menus
 
@@ -268,7 +268,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Changed the pause menu song to be a different cut
 
-- Replaced the scrolling text with a project version number in the submenu
+- Replaced the scrolling text with a project version number in the main menu
 
 - Swapped heyothefunnier with RedLikesGarlicBread in the credits menu
 
@@ -280,7 +280,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Rewrote how the pause menu displays it's options
 
-- Changed how text is displayed in certain menus (like the submenu) to no longer use images
+- Changed how text is displayed in certain menus (like the main menu) to no longer use images
 
 - Changed sound effects in various menus to match the newer sfx
 
@@ -288,13 +288,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Rain can now happen during any time of day
 
-- Changed the submenu intro sound and song
+- Changed the main menu intro sound and song
 
 - Updated the nighttime theme
 
 - Updated the daytime theme
 
-- Updated the titlemenu theme
+- Updated the title screen theme
 
 - Redrew RedLikesGarlicBread's credits image
 
@@ -350,7 +350,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 
-- Fixed a grammar error in the submenu's infobox
+- Fixed a grammar error in the main menu's infobox
 
 - Fixed various preformance and lag issues
 
@@ -364,7 +364,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- Added page support to the submenu's infobox
+- Added page support to the main menu's infobox
 
 - Added ConveyorBelt support
 
@@ -376,7 +376,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Redrew every art asset used
 
-- Remade the day, night, and titlemenu songs
+- Remade the day, night, and title screen songs
 
 - Changed UI sounds on buttons and other UI elements
 
@@ -442,7 +442,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Added a credits menu
 
-- Added a submenu before the clicker
+- Added a main menu screen before the gameplay
 
 - Added logo animations to the title menu
 
@@ -452,7 +452,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Added the ability to erase save data
 
-- Added a new titlemenu secret
+- Added a new title screen secret
 
 ### Changed
 
@@ -460,7 +460,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Changed currency-per-click visuals
 
-- Increased rarity of titlemenu secrets
+- Increased rarity of title screen secrets
 
 - Changed the egg and tomato sprites
 
@@ -512,7 +512,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Fixed issues with the savecode system
 
-- Fixed Jacko being slow on the titlemenu
+- Attempted to fix Jacko being slow on the title screen
 
 ## [0.1.4] - 2024-10-31
 
